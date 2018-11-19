@@ -1,0 +1,6 @@
+com\weather\model\Weather.class
+com\weather\gui\Startup.class
+com\weather\model\Response.class
+com\weather\model\Data.class
+com\weather\model\CoolestData.class
+com\weather\service\WeatherService.class
